@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 👋🏼 👨🏼‍💻
+------
+Hi, I'm Chad. I'm a full stack developer with a passion to create👨‍🎨, and a desire to continually learn and grow👨‍🏫.  I have a solution driven personality🕵🏼‍♂️ and I love a challenge🧗🏼. 
+- 🔭 I’m currently working on ... Lambda labs
+- 🌱 I’m currently learning ... Team deployment
+- 👯 I’m looking to collaborate on ... Challenging projects
+- 🤔 I’m looking for help with ... Improving my coding skills.
+- 💬 Ask me about ... Growing up with six siblings.
+- 📫 How to reach me: ... chadwcox@me.com, [LinkedIn](https://www.linkedin.com/in/chadwcox/)
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: ... My brothers glued bunny ears on my forhead when I was a kid. 🐇
+------
+### ChadWCox ✌🏼
 
-<!--
-**ChadWCox/ChadWCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
