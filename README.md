@@ -9,7 +9,7 @@ HTML | CSS | JavaScript | React | Redux | REST | Unit Testing | Node.js | Expres
 - 🌱 I’m currently learning ... Team deployment
 - 👯 I’m looking to collaborate on ... Challenging projects
 - 💬 Ask me about ... Growing up with six siblings.
-- 📫 How to reach me: ... email:chadwcox@me.com, [LinkedIn] (https://www.linkedin.com/in/chadwcox/)
+- 📫 How to reach me: ... email:chadwcox@me.com, [LinkedIn](https://www.linkedin.com/in/chadwcox/)
 - ⚡ Fun fact: ... My brothers glued bunny ears on my forhead when I was a kid. 🐇
 ------
 ### ChadWCox ✌🏼
